@@ -2,9 +2,9 @@
 
 [![npm version](https://badge.fury.io/js/react-native-mjcore.svg)](https://badge.fury.io/js/react-native-mjcore)
 
-iOS Version（noidfa）: 4.8.0
+iOS Version（noidfa）: 5.1.0
 
-Android Version: 4.8.2
+Android Version: 5.1.0
 
 ## 注意
 
