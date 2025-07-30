@@ -23,4 +23,16 @@ static enableAutoWakeup(enable) {
  }
 }
 
+static enableSDKLocalLog(params) {
+   if (Platform.OS == "android") {
+      JCoreModule.enableSDKLocalLog(params)
+   }
+}
+
+static readNewLogs(callback) {
+   if (Platform.OS == "android") {
+      JCoreModule.readNewLogs(callback)
+   }
+}
+
 }
